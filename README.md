@@ -6,4 +6,5 @@
 
 # Pracovní skupiny
 
-* [29. 3. 2022](ps-2022-03-29.md)
+* [29. 3. 2022 (Jirka)](ps-2022-03-29.md)
+* [29. 3. 2022 (Soustruh)](ps-2022-03-29-soustruh.py)

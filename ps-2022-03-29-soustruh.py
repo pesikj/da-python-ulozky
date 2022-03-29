@@ -7,7 +7,7 @@ nesahejte, s tím, jak přesně funguje, se seznámíte v dalších lekcích. �
 
 import pickle
 
-with open("grouped.pickle", "rb") as f:
+with open("ps-2022-03-29-data.pickle", "rb") as f:
     data = pickle.load(f)
 
 anything = data["wikicard/anythinggoes"]
