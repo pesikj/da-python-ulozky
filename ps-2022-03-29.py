@@ -62,3 +62,18 @@ zlepseni = [cas for cas in zmeny if cas < 0]
 print(len(zlepseni))
 zlepseni = [cas[1]-cas[0] for cas in zavody if cas[1]-cas[0]<0]
 print(len(zlepseni))
+
+"""
+Dostala jsi následující seznam, kde jsou vzdálenosti mezi nápravami přípojných vozidel nákladních automobilů.
+
+* Vytvoř dvourozměrný seznam, kde budou jednotlivé vzdálenosti jako samostatné prvky seznamu.
+* Spočti průměrný počet náprav v našem vzorku.
+"""
+
+napravy = ["1323;1341", "3459;1023;1094", "1241;1231;1247", "3421,983,956,954", "3981"]
+napravy = [vozidlo.replace(",", ";") for vozidlo in napravy]
+napravy = [vozidlo.split(";") for vozidlo in napravy]
+pocty = [len(vozidlo) + 1 for vozidlo in napravy]
+print(f"Průměrný počet náprav je {statistics.mean(pocty)}.")
+# Kdybychom chtěli vzdálenosti jako čísla
+napravy = [[int(naprava) for naprava in auto] for auto in napravy]
