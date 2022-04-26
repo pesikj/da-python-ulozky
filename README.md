@@ -10,7 +10,7 @@
 * [29. 3. 2022 (Jirka)](ps-2022-03-29.md)
 * [29. 3. 2022 (Soustruh)](ps-2022-03-29-soustruh.py)
 * [26. 4. 2022](ps-2022-04-26.md)
-* [26. 4. 2022 (Soustruh)][https://gist.github.com/soustruh/64a8a2d5a3285902ce758acee5a27420]
+* [26. 4. 2022 (Soustruh)](https://gist.github.com/soustruh/64a8a2d5a3285902ce758acee5a27420)
 
 # Příklady na procvičování
 
