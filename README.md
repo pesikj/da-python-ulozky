@@ -15,3 +15,7 @@
 # Příklady na procvičování
 
 Příklady jsou [zde](https://github.com/pesikj/python-012021). Zkusit si můžeš příklady 1, 2, 3, 5, 6, 7 a 9. Slovníky v příkladech 1 až 5 si můžeš upravit na seznamy, protože procházení slovníků cyklem jsme neprobírali. Řešení příkladů od jedné šikovné studentky jsou [zde](https://github.com/Hedwika/python-012021).
+
+# Opakovací lekce
+
+* [Opakovací lekce](opakovaci_lekce.md)

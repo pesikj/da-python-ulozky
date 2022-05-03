@@ -1,0 +1,520 @@
+[
+    {
+        "name": "Battle of the Golden Tooth",
+        "year": "298",
+        "attackers": [
+            "Lannister"
+        ],
+        "defenders": [
+            "Tully"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Battle at the Mummer's Ford",
+        "year": "298",
+        "attackers": [
+            "Lannister"
+        ],
+        "defenders": [
+            "Baratheon"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Battle of Riverrun",
+        "year": "298",
+        "attackers": [
+            "Lannister"
+        ],
+        "defenders": [
+            "Tully"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Battle of the Green Fork",
+        "year": "298",
+        "attackers": [
+            "Stark"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Battle of the Whispering Wood",
+        "year": "298",
+        "attackers": [
+            "Stark",
+            "Tully"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Stark",
+            "Tully"
+        ]
+    },
+    {
+        "name": "Battle of the Camps",
+        "year": "298",
+        "attackers": [
+            "Stark",
+            "Tully"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Stark",
+            "Tully"
+        ]
+    },
+    {
+        "name": "Sack of Darry",
+        "year": "298",
+        "attackers": [
+            "Lannister"
+        ],
+        "defenders": [
+            "Darry"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Battle of Moat Cailin",
+        "year": "299",
+        "attackers": [
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Battle of Deepwood Motte",
+        "year": "299",
+        "attackers": [
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Battle of the Stony Shore",
+        "year": "299",
+        "attackers": [
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Battle of Torrhen's Square",
+        "year": "299",
+        "attackers": [
+            "Stark"
+        ],
+        "defenders": [
+            "Greyjoy"
+        ],
+        "winners": [
+            "Stark"
+        ]
+    },
+    {
+        "name": "Battle of Winterfell",
+        "year": "299",
+        "attackers": [
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Sack of Torrhen's Square",
+        "year": "299",
+        "attackers": [
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Sack of Winterfell",
+        "year": "299",
+        "attackers": [
+            "Bolton",
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Bolton",
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Battle of Oxcross",
+        "year": "299",
+        "attackers": [
+            "Stark",
+            "Tully"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Stark",
+            "Tully"
+        ]
+    },
+    {
+        "name": "Siege of Storm's End",
+        "year": "299",
+        "attackers": [
+            "Baratheon"
+        ],
+        "defenders": [
+            "Baratheon"
+        ],
+        "winners": [
+            "Baratheon"
+        ]
+    },
+    {
+        "name": "Battle of the Fords",
+        "year": "299",
+        "attackers": [
+            "Lannister"
+        ],
+        "defenders": [
+            "Tully"
+        ],
+        "winners": [
+            "Tully"
+        ]
+    },
+    {
+        "name": "Sack of Harrenhal",
+        "year": "299",
+        "attackers": [
+            "Stark"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Stark"
+        ]
+    },
+    {
+        "name": "Battle of the Crag",
+        "year": "299",
+        "attackers": [
+            "Stark"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Stark"
+        ]
+    },
+    {
+        "name": "Battle of the Blackwater",
+        "year": "299",
+        "attackers": [
+            "Baratheon"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Siege of Darry",
+        "year": "299",
+        "attackers": [
+            "Darry"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Darry"
+        ]
+    },
+    {
+        "name": "Battle of Duskendale",
+        "year": "299",
+        "attackers": [
+            "Stark"
+        ],
+        "defenders": [
+            "Lannister"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Battle of the Burning Septry",
+        "year": "299",
+        "attackers": [
+            "Brotherhood without Banners"
+        ],
+        "defenders": [
+            "Brave Companions"
+        ],
+        "winners": [
+            "Brotherhood without Banners"
+        ]
+    },
+    {
+        "name": "Battle of the Ruby Ford",
+        "year": "299",
+        "attackers": [
+            "Lannister"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Retaking of Harrenhal",
+        "year": "299",
+        "attackers": [
+            "Lannister"
+        ],
+        "defenders": [
+            "Brave Companions"
+        ],
+        "winners": [
+            "Lannister"
+        ]
+    },
+    {
+        "name": "The Red Wedding",
+        "year": "299",
+        "attackers": [
+            "Frey",
+            "Bolton"
+        ],
+        "defenders": [
+            "Stark"
+        ],
+        "winners": [
+            "Frey",
+            "Bolton"
+        ]
+    },
+    {
+        "name": "Siege of Seagard",
+        "year": "299",
+        "attackers": [
+            "Frey"
+        ],
+        "defenders": [
+            "Mallister"
+        ],
+        "winners": [
+            "Frey"
+        ]
+    },
+    {
+        "name": "Battle of Castle Black",
+        "year": "300",
+        "attackers": [
+            "Free folk",
+            "Thenns",
+            "Giants"
+        ],
+        "defenders": [
+            "Night's Watch",
+            "Baratheon"
+        ],
+        "winners": [
+            "Night's Watch",
+            "Baratheon"
+        ]
+    },
+    {
+        "name": "Fall of Moat Cailin",
+        "year": "300",
+        "attackers": [
+            "Bolton"
+        ],
+        "defenders": [
+            "Greyjoy"
+        ],
+        "winners": [
+            "Bolton"
+        ]
+    },
+    {
+        "name": "Sack of Saltpans",
+        "year": "300",
+        "attackers": [
+            "Brave Companions"
+        ],
+        "defenders": [],
+        "winners": [
+            "Brave Companions"
+        ]
+    },
+    {
+        "name": "Retaking of Deepwood Motte",
+        "year": "300",
+        "attackers": [
+            "Baratheon",
+            "Karstark",
+            "Mormont",
+            "Glover"
+        ],
+        "defenders": [
+            "Greyjoy"
+        ],
+        "winners": [
+            "Baratheon",
+            "Karstark",
+            "Mormont",
+            "Glover"
+        ]
+    },
+    {
+        "name": "Battle of the Shield Islands",
+        "year": "300",
+        "attackers": [
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Tyrell"
+        ],
+        "winners": [
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Invasion of Ryamsport, Vinetown, and Starfish Harbor",
+        "year": "300",
+        "attackers": [
+            "Greyjoy"
+        ],
+        "defenders": [
+            "Tyrell"
+        ],
+        "winners": [
+            "Greyjoy"
+        ]
+    },
+    {
+        "name": "Second Seige of Storm's End",
+        "year": "300",
+        "attackers": [
+            "Baratheon"
+        ],
+        "defenders": [
+            "Baratheon"
+        ],
+        "winners": [
+            "Baratheon"
+        ]
+    },
+    {
+        "name": "Siege of Dragonstone",
+        "year": "300",
+        "attackers": [
+            "Baratheon"
+        ],
+        "defenders": [
+            "Baratheon"
+        ],
+        "winners": [
+            "Baratheon"
+        ]
+    },
+    {
+        "name": "Siege of Riverrun",
+        "year": "300",
+        "attackers": [
+            "Lannister",
+            "Frey"
+        ],
+        "defenders": [
+            "Tully"
+        ],
+        "winners": [
+            "Lannister",
+            "Frey"
+        ]
+    },
+    {
+        "name": "Siege of Raventree",
+        "year": "300",
+        "attackers": [
+            "Bracken",
+            "Lannister"
+        ],
+        "defenders": [
+            "Blackwood"
+        ],
+        "winners": [
+            "Bracken",
+            "Lannister"
+        ]
+    },
+    {
+        "name": "Siege of Winterfell",
+        "year": "300",
+        "attackers": [
+            "Baratheon",
+            "Karstark",
+            "Mormont",
+            "Glover"
+        ],
+        "defenders": [
+            "Bolton",
+            "Frey"
+        ],
+        "winners": []
+    }
+]
