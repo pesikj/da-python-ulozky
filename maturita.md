@@ -4,7 +4,7 @@
 Jméno,Český jazyk,Anglický jazyk,Matematika,Biologie,Chemie,Informatika
 Guido van Rossum,1,1,1,1,1,
 James Gosling,3,1,3,2,5,
-Mads Torgersen,2,2,1,3,,2
+Mads Torgersen,1,1,1,3,,1
 ```
 
 Uvažuj program, který bude pracovat s výsledky z maturitní zkoušky. Data jsou v souboru [maturita.csv](maturita.csv). Každý maturoval povinně z českého jazyka, anglického jazyka, matematiky a biologie a dále si mohl vybrat mezi informatikou a chemií.
